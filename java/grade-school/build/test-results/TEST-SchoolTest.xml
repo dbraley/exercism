@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SchoolTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-07-07T02:35:21" hostname="ITHAA1DBRALEY1" time="0.084">
+  <properties/>
+  <testcase name="startsWithNoStudents" classname="SchoolTest" time="0.028"/>
+  <testcase name="addsMoreStudentsInSameGrade" classname="SchoolTest" time="0.043"/>
+  <testcase name="getsStudentsInAGrade" classname="SchoolTest" time="0.0"/>
+  <testcase name="addsStudentsInMultipleGrades" classname="SchoolTest" time="0.0"/>
+  <testcase name="getsStudentsInEmptyGrade" classname="SchoolTest" time="0.0"/>
+  <testcase name="sortsSchool" classname="SchoolTest" time="0.01"/>
+  <testcase name="foo" classname="SchoolTest" time="0.0"/>
+  <testcase name="addsStudents" classname="SchoolTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

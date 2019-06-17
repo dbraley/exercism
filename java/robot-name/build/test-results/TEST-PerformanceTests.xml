@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PerformanceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-07-14T21:24:55" hostname="ITHAA1DBRALEY1" time="28.87">
+  <properties/>
+  <testcase name="EnumRobot" classname="PerformanceTests" time="12.166"/>
+  <testcase name="EnumRobotCachedConfig" classname="PerformanceTests" time="8.927"/>
+  <testcase name="MultiDigitConfigEnumRobot" classname="PerformanceTests" time="7.776"/>
+  <system-out><![CDATA[nTime for a{999}d{999}:    REV3{61280}, REV2-CC{71244},    REV2{96410}
+nTime for a{ 10}d{ 10}: REV2-CC{  889},    REV3{ 1136},    REV2{ 1356}
+nTime for a{ 20}d{ 30}: REV2-CC{ 1934},    REV3{ 2045},    REV2{ 2885}
+nTime for a{  2}d{  3}: REV2-CC{  480},    REV3{ 1032},    REV2{ 1423}
+nTime for a{ 90}d{  0}:    REV3{ 3081}, REV2-CC{ 3704},    REV2{ 4700}
+nTime for a{  0}d{ 90}:    REV3{ 3082}, REV2-CC{ 3633},    REV2{ 4973}
+nTime for a{ 97}d{ 97}:    REV3{ 6098}, REV2-CC{ 7377},    REV2{ 9890}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

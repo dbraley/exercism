@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneNumberTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-07-06T19:47:45" hostname="ITHAA1DBRALEY1" time="0.005">
+  <properties/>
+  <testcase name="cleansNumber" classname="PhoneNumberTest" time="0.002"/>
+  <testcase name="areaCode" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="cleansNumberWithDots" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="validWhen11DigitsAndFirstIs1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWhenOnly11Digits" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWhen9Digits" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="prettyPrint" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="prettyPrintWithFullUSPhoneNumber" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="foo" classname="PhoneNumberTest" time="0.001"/>
+  <system-out><![CDATA[4567890
+456-7890
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
